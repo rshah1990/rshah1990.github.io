@@ -1,0 +1,17 @@
+# some information about you
+name: "Rohit Shah"
+nickname: "Rohit"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "shahrohit.1990@gmail.com"
+  phone: "+91-9029452013"
+
+# some summary about what you do
+summary:
+  - I am a Machine learning engineer / Data scientist
+  - I love cloud
+  - I contribute to open-source projects
+  - I am eager to learn
