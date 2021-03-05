@@ -10,15 +10,15 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
+- title: GCP
+  image: /images/sections/achievements/data_engg.jpg
+  summary: GCP data Engineer Linux Academy certification.
+- title: NLP
+  image: /images/sections/achievements/nlp.jpg
   summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
+- title: PL-SQL
+  image: /images/sections/achievements/sql.jpg
   summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+- title: PySpark
+  image: /images/sections/achievements/pyspark.jpg
+  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.

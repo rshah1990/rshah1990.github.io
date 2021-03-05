@@ -3,7 +3,7 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -11,54 +11,38 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
+    name: CitiusTech.
     url: "https://www.example.com"
-    location: Dhaka Branch
+    location: Mumbai
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: CitiusTech is a specialized provider of healthcare technology and business process services to healthcare technology companies, healthcare providers, managed care organizations, health plans, and disease management companies.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Assistant Manager
+    start: May 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    #responsibilities:
+    #- Write lots of example codes.
+    #- Read lots of examples.
+    #- See lots of example videos.
 
 - company:
-    name: PreExample Co.
+    name: Deloitte USI.
     url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    location: Mumbai
+    overview: Deloitte Touche Tohmatsu Limited, commonly referred to as Deloitte.Deloitte is one of the Big Four accounting organizations and the largest professional services network in the world by revenue and number of professionals
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - designation: Consultant
+    start: Feb 2017
+    end: May 2019
 
 - company:
-    name: Intern Counting Company (ICC).
+    name: TCS.
     url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    location: Mumbai
+    overview: Tata Consultancy Services is a global leader in IT services, consulting & business solutions with a large network of innovation & delivery centers.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+  - designation: Developer
+    start: March 2013
+    end: Feb 2017
