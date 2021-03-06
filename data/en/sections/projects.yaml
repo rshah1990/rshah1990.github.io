@@ -50,7 +50,7 @@ projects:
   # timeline: "March 2018 - Present"
   #repo:  
   url: "https://github.com/rshah1990/Python"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Tips & Tricks of efficently working with Python
+  summary: Tips & Tricks to efficiently work with Python
   tags: ["professional", "kubernetes", "cloud"]
 
 - name: ML-Ops & TFX
@@ -62,21 +62,21 @@ projects:
 
 - name: Grocery gap (First place)
   role: Author
-  timeline: "March 2018 - Present"  
+  timeline: "2018 "  
   url: "https://github.com/mmehta0943/ML-grocery-gap"
   summary: 2018 Annual Deloitte Machine Learning Guild Hackathon - First place.
   tags: ["hackathon", "kubernetes", "hobby"]
 
 - name: Capgemini Tech challange (Third Place)
   role: Author
-  timeline: "March 2018 - Present"  
+  timeline: "2017"  
   url: "https://github.com/rshah1990/CG-Challange"
   summary: Predict Resource demand.
   tags: ["hackathon", "kubernetes", "hobby"]
 
 - name: WNS (Top 3%)
   role: Author
-  timeline: "March 2018 - Present"  
+  timeline: "2018"  
   url: "https://github.com/rshah1990/WNS-"
   summary: Predicting promotional probabilities based on past employee data.
   tags: ["hackathon", "kubernetes", "hobby"]
@@ -90,7 +90,7 @@ projects:
 
 - name: Innoxplex
   role: Author
-  timeline: "March 2018 - Present"  
+  timeline: "2019"  
   url: "https://github.com/rshah1990/Innoxplex-"
   summary: Tag the website according to URL.
   tags: ["hackathon", "kubernetes", "hobby"]
