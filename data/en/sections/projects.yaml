@@ -23,7 +23,6 @@ buttons:
 projects:
 - name: Tensorflow
   role: Developer
-  timeline: "Jun 2018 - Present"
   #repo: https://github.com/rshah1990/Tensorflow
   url: "https://github.com/rshah1990/Tensorflow"
   summary: An Open Source Machine Learning Framework for Everyone.
