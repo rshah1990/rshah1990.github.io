@@ -10,6 +10,9 @@ section:
 
 # Your achievements achievements
 achievements:
+- title: GCP ML
+  image: /images/sections/achievements/GCP_ML.PNG
+  summary: GCP Machine learning Engineer
 - title: GCP
   image: /images/sections/achievements/data_engg.jpg
   summary: GCP data Engineer Linux Academy certification.
