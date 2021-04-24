@@ -15,7 +15,7 @@ company:
   url: "https://www.citiustech.com/default?location=worldwide"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Rohit.resume.pdf"
+resume: "files/Rohit_resume.pdf"
 
 # a summary about you
 summary: 'I am a passionate professor, teaching machines how to behave in real world since 2016.'
