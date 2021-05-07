@@ -94,3 +94,31 @@ projects:
   url: "https://github.com/rshah1990/Innoxplex-"
   summary: Tag the website according to URL.
   tags: ["hackathon", "kubernetes", "hobby"]
+
+- name: Pork Price Prediction
+  role: Author
+  timeline: "2018"  
+  url: "https://github.com/rshah1990/Prok-Price-Prediction-"
+  summary: Tag the website according to URL.
+  tags: ["hackathon", "kubernetes", "hobby"]
+
+- name: Santander Value Prediction Challenge
+  role: Author
+  timeline: "2018"  
+  url: "https://www.kaggle.com/rshah1990"
+  summary: Tag the website according to URL.
+  tags: ["hackathon", "kubernetes", "hobby"]
+
+- name: TGS Salt Identification Challenge
+  role: Author
+  timeline: "2018"  
+  url: "https://www.kaggle.com/rshah1990"
+  summary: Tag the website according to URL.
+  tags: ["hackathon", "kubernetes", "hobby"]
+
+- name: Book Recommendation system
+  role: Author
+  timeline: "2018"  
+  url: "https://www.kaggle.com/rshah1990/bibliothecamodelingdata"
+  summary: Tag the website according to URL.
+  tags: ["hackathon", "kubernetes", "hobby"]
