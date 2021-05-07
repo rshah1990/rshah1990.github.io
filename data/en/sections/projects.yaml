@@ -99,26 +99,26 @@ projects:
   role: Author
   timeline: "2018"  
   url: "https://github.com/rshah1990/Prok-Price-Prediction-"
-  summary: Tag the website according to URL.
+  summary: Predicting Pork price for next year
   tags: ["hackathon", "kubernetes", "hobby"]
 
 - name: Santander Value Prediction Challenge
   role: Author
   timeline: "2018"  
   url: "https://www.kaggle.com/rshah1990"
-  summary: Tag the website according to URL.
+  summary: Predict value of transection for each potential client. 
   tags: ["hackathon", "kubernetes", "hobby"]
 
 - name: TGS Salt Identification Challenge
   role: Author
   timeline: "2018"  
   url: "https://www.kaggle.com/rshah1990"
-  summary: Tag the website according to URL.
+  summary: Segment salt deposits beneath the Earth's surface
   tags: ["hackathon", "kubernetes", "hobby"]
 
 - name: Book Recommendation system
   role: Author
   timeline: "2018"  
   url: "https://www.kaggle.com/rshah1990/bibliothecamodelingdata"
-  summary: Tag the website according to URL.
+  summary: Book Recommendation system
   tags: ["hackathon", "kubernetes", "hobby"]
