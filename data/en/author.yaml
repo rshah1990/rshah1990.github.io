@@ -7,10 +7,10 @@ image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "shahrohit.1990@gmail.com"
-  phone: "+91-9029452013"
+  phone: "+91-7021081708"
 
 # some summary about what you do
 summary:
-  - Data scientist/Machine learning Engineer 
+  - Senior Solution Architect LLM   
   - storyteller
   - I love cloud
