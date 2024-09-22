@@ -10,12 +10,23 @@ section:
 
 # Your achievements achievements
 achievements:
+
+- title: LLM in Production
+  image: /images/sections/achievements/LLM-01.png
+  summary: Edx course on LLM
+
+- title: Application using LLM
+  image: /images/sections/achievements/LLM-02.png
+  summary: Edx course on LLM
+  
 - title: GCP ML
   image: /images/sections/achievements/GCP_ML.PNG
   summary: GCP Machine learning Engineer
+  
 - title: GCP
   image: /images/sections/achievements/data_engg.jpg
   summary: GCP data Engineer Linux Academy certification.
+  
 - title: NLP
   image: /images/sections/achievements/nlp.jpg
   summary: Champion in cycling inter-city cycling championship 2020.
