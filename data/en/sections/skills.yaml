@@ -9,46 +9,44 @@ section:
   # hideTitle: true
 
 # Your Skills.
-# Give a summary of you each skill in the summary section.
+# Give a summary of each skill in the summary section.
 skills:
 
+- name: LLM
+  logo: "/images/sections/skills/python.png"
+  summary: "Proficient in Large language models from RAG to Fine-tuning SLM"
+
+- name: Agents
+  logo: "/images/sections/skills/python.png"
+  summary: "Proficient in Agentic systems using Large language models"
+
+- name: Solution architect
+  logo: "/images/sections/skills/python.png"
+  summary: "Proficient in building efficient & large scale LLM systems"
+
+- name: LLMops
+  logo: "/images/sections/skills/python.png"
+  summary: "Deploying LLM faster, cheaper, and more efficient manner."
+  
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable programs."
 
 - name: Cloud Computing
   logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
-
-- name: Containers
-  logo: "/images/sections/skills/docker.svg"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-
+  summary: "Worked with most major clouds such as GCP, AWS, Azure, etc."
 
 - name: Tensorflow
   logo: "/images/sections/skills/tensorflow.png"
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
 
-
 - name: SQL-PL/SQL
   logo: "/images/sections/skills/sql.png"
   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 
-- name: ML-ops
-  logo: "/images/sections/skills/mlopscard.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-
-- name: PySpark
-  logo: "/images/sections/skills/spark.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
 
 - name: NLP
   logo: "/images/sections/skills/nlp.png"
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: Git
-  logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
